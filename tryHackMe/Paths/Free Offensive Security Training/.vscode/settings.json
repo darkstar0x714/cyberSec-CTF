@@ -1,6 +1,8 @@
 {
     "cSpell.words": [
         "bruteforce",
+        "darkstar",
+        "dpkg",
         "ffuf",
         "hotspots",
         "Joomla",
@@ -11,6 +13,7 @@
         "Nmap",
         "nslookup",
         "NTFS",
+        "ovpn",
         "OWASP",
         "pentest",
         "pentesting",
@@ -21,6 +24,7 @@
         "traceroute",
         "Vulnversity",
         "webserver",
-        "whois"
+        "whois",
+        "windscribe"
     ]
 }
