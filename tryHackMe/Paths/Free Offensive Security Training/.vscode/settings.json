@@ -4,6 +4,7 @@
         "darkstar",
         "dpkg",
         "ffuf",
+        "gobuster",
         "hotspots",
         "Joomla",
         "Kenobi",
@@ -25,6 +26,8 @@
         "Vulnversity",
         "webserver",
         "whois",
-        "windscribe"
-    ]
+        "windscribe",
+        "wordlist"
+    ],
+    "workbench.editor.pinnedTabsOnSeparateRow":true,
 }

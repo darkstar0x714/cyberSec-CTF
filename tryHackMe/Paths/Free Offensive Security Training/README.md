@@ -8,7 +8,7 @@
 
 - [x] [**Starting Out In Cyber Sec**](https://tryhackme.com/room/startingoutincybersec) *Learn about the different career paths in Cyber Security and how TryHackMe can help!*.
 
-- [ ] [**Intro to Offensive Security**](https://tryhackme.com/room/introtooffensivesecurity) *Hack your first website (legally in a safe environment) and experience an ethical hacker's job*.
+- [x] [**Intro to Offensive Security**](https://tryhackme.com/room/introtooffensivesecurity) *Hack your first website (legally in a safe environment) and experience an ethical hacker's job*.
 
 - [ ] [**Introductory Researching**](https://tryhackme.com/room/introtoresearch) *A brief introduction to research skills for penetration testing*.
 
