@@ -6,7 +6,7 @@
 
 - [x] [**Tutorial**](https://tryhackme.com/room/tutorial) *Learn how to use a TryHackMe room to start your up skilling in cyber security*.
 
-- [ ] [**Starting Out In Cyber Sec**](https://tryhackme.com/room/startingoutincybersec) *Learn about the different career paths in Cyber Security and how TryHackMe can help!*.
+- [x] [**Starting Out In Cyber Sec**](https://tryhackme.com/room/startingoutincybersec) *Learn about the different career paths in Cyber Security and how TryHackMe can help!*.
 
 - [ ] [**Intro to Offensive Security**](https://tryhackme.com/room/introtooffensivesecurity) *Hack your first website (legally in a safe environment) and experience an ethical hacker's job*.
 
