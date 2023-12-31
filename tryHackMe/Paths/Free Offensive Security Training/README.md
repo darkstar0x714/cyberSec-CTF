@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-- [ ] [**Tutorial**](https://tryhackme.com/room/tutorial) *Learn how to use a TryHackMe room to start your up skilling in cyber security*.
+- [x] [**Tutorial**](https://tryhackme.com/room/tutorial) *Learn how to use a TryHackMe room to start your up skilling in cyber security*.
 
 - [ ] [**Starting Out In Cyber Sec**](https://tryhackme.com/room/startingoutincybersec) *Learn about the different career paths in Cyber Security and how TryHackMe can help!*.
 

@@ -1,6 +1,6 @@
 # Tutorial
 
-![roomBanner](img/getting%20started/roomBanner.png)
+![roomBanner](img/getting%20started/Tutorial/roomBanner.png)
 
 ## Room objectives
 
@@ -16,11 +16,11 @@
    `sudo dpkg -i windscribe_2.7.14_amd64.deb`
    4. open it using `windscribe-cli connect`
    5. change mode to **Stealth** mode on port **443**
-   ![VPN](img/getting%20started/VPN.png)
+   ![VPN](img/getting%20started/Tutorial/VPN.png)
    6. download your openVPN config file from [config](https://tryhackme.com/access)
    7. run it using `openvpn {YOUR_USER_NAME}.ovpn`
    8. check [connectivity](https://tryhackme.com/access)
-   ![connectivity](img/getting%20started/connectivity.png)
+   ![connectivity](img/getting%20started/Tutorial/connectivity.png)
    9. start machine
    10.open browser and go to your machine ip
 
