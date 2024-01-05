@@ -14,7 +14,7 @@
 
 - [ ] [**Google Dorking**](https://tryhackme.com/room/googledorking) *A brief introduction to Explaining how Search Engines work and leveraging them into finding hidden content!, and how to use this advanced search to find useful info*.
 
-- [ ] [**OhSINT**](https://tryhackme.com/room/ohsint) *an example about how to use open source intelligence to find critically important info about our target*.
+- [x] [**OhSINT**](https://tryhackme.com/room/ohsint) *an example about how to use open source intelligence to find critically important info about our target*.
 
 ## Linux
 
