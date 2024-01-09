@@ -22,7 +22,7 @@
 
 - [x] [**Linux Fundamentals (Part 2)**](https://tryhackme.com/room/linuxfundamentalspart2) *Continue your learning Linux journey with part two. You will be learning how to log in to a Linux machine using SSH, how to advance your commands, file system interaction*.
 
-- [ ] [**Linux Fundamentals (Part 3)**](https://tryhackme.com/room/linuxfundamentalspart3) *Power up your Linux skills and get hands-on with some common utilities you will likely use daily!*.
+- [x] [**Linux Fundamentals (Part 3)**](https://tryhackme.com/room/linuxfundamentalspart3) *Power up your Linux skills and get hands-on with some common utilities you will likely use daily!*.
 
 ## Windows
 

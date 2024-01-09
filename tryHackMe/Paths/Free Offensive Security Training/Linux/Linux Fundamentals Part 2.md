@@ -1,4 +1,4 @@
-# Linux Fundamentals Part 1
+# Linux Fundamentals Part 2
 
 ![Alt text](img/Linux%20Fundamentals%20Part%202/roomBanner.png)
 
