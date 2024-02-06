@@ -261,4 +261,200 @@ Aye
 
 </details>
 
-### Task 3 : Encapsulation
+### Task 4 : The TCP/IP Model
+
+The TCP/IP model is, in many ways, very similar to the OSI model. It's a few years older, and serves as the basis for real-world networking. The TCP/IP model consists of four layers: Application, Transport, Internet and Network Interface. Between them, these cover the same range of functions as the seven layers of the OSI Model.
+
+<details>
+<summary>
+Which model was introduced first, OSI or TCP/IP?
+</summary>
+
+- The TCP/IP model was introduced by the American DoD in 1982
+
+```text
+TCP/IP
+```
+
+</details>
+
+---
+
+<details>
+<summary>
+Which layer of the TCP/IP model covers the functionality of the Transport layer of the OSI model (Full Name)?
+</summary>
+
+```text
+transport
+```
+
+</details>
+
+---
+
+<details>
+<summary>
+Which layer of the TCP/IP model covers the functionality of the Session layer of the OSI model (Full Name)?
+</summary>
+
+```text
+Application
+```
+
+</details>
+
+---
+
+<details>
+<summary>
+The Network Interface layer of the TCP/IP model covers the functionality of two layers in the OSI model. These layers are Data Link, and?.. (Full Name)?
+</summary>
+
+```text
+physical
+```
+
+</details>
+
+---
+
+<details>
+<summary>
+Which layer of the TCP/IP model handles the functionality of the OSI network layer?
+</summary>
+
+```text
+internet
+```
+
+</details>
+
+---
+
+<details>
+<summary>
+What kind of protocol is TCP?
+</summary>
+
+```text
+connection-based
+```
+
+</details>
+
+---
+
+<details>
+<summary>
+What is SYN short for?
+</summary>
+
+```text
+synchronise
+```
+
+</details>
+
+---
+
+<details>
+<summary>
+What is the second step of the three way handshake?
+</summary>
+
+```text
+syn/ack
+```
+
+</details>
+
+---
+
+<details>
+<summary>
+What is the short name for the "Acknowledgement" segment in the three-way handshake?
+</summary>
+
+```text
+ack
+```
+
+</details>
+
+### Task 5 : Ping
+
+<details>
+<summary>
+What command would you use to ping the bbc.co.uk website?
+</summary>
+
+```text
+ping bbc.co.uk
+```
+
+</details>
+
+---
+
+<details>
+<summary>
+What command would you use to ping the bbc.co.uk website?
+</summary>
+
+- using `ping muirlandoracle.co.uk` command
+    ![img](img/Introductory%20Networking/ping%20ip.png)
+
+```text
+217.160.0.152
+```
+
+</details>
+
+---
+
+<details>
+<summary>
+What switch lets you change the interval of sent ping requests?
+</summary>
+
+- using `man ping | grep interval` command
+    ![img](img/Introductory%20Networking/ping%20%20interval.png)
+
+```text
+-i
+```
+
+</details>
+
+---
+
+<details>
+<summary>
+What switch would allow you to restrict requests to IPv4?
+</summary>
+
+- using `man ping | grep IPv4` command
+    ![img](img/Introductory%20Networking/ping%20ipv4.png)
+
+```text
+-4
+```
+
+</details>
+
+---
+
+<details>
+<summary>
+What switch would give you a more verbose output?
+</summary>
+
+- using `man ping` command then scroll down
+    ![img](img/Introductory%20Networking/ping%20verbose.png)
+
+```text
+-v
+```
+
+</details>
