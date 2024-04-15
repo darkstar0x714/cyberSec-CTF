@@ -1,0 +1,27 @@
+{
+    "cSpell.words": [
+        "Alya",
+        "DFIR",
+        "Exfiltration",
+        "exiftool",
+        "gobuster",
+        "IDOR",
+        "iloveyou",
+        "IPDB",
+        "nmap",
+        "pdfinfo",
+        "qwertyuiop",
+        "SIEM",
+        "Weaponization",
+        "wordlist"
+    ],
+    "[markdown]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll.markdownlint": true
+        },
+    },
+    "markdownlint.config": {
+        "MD040":false,
+        "MD033":false
+    }
+}
