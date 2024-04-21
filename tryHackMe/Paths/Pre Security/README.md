@@ -27,11 +27,11 @@
 
 **Learn the core concepts of how computers communicate with each other and types of network weaknesses.**
 
-- [ ] [**What is Networking?**](https://tryhackme.com/r/room/whatisnetworking) *Begin learning the fundamentals of computer networking in this bite-sized and interactive module.*
+- [x] [**What is Networking?**](https://tryhackme.com/r/room/whatisnetworking) *Begin learning the fundamentals of computer networking in this bite-sized and interactive module.*
 
-- [ ] [**Intro to LAN**](https://tryhackme.com/r/room/introtolan) *Learn about some of the technologies and designs that power private networks*
+- [x] [**Intro to LAN**](https://tryhackme.com/r/room/introtolan) *Learn about some of the technologies and designs that power private networks*
 
-- [ ] [**OSI Model**](https://tryhackme.com/r/room/osimodelzi) *Learn about the fundamental networking framework that determines the various stages in which data is handled across a network*
+- [x] [**OSI Model**](https://tryhackme.com/r/room/osimodelzi) *Learn about the fundamental networking framework that determines the various stages in which data is handled across a network*
 
 - [ ] [**Packets & Frames**](https://tryhackme.com/r/room/packetsframes) *Understand how data is divided into smaller pieces and transmitted across a network to another device*
 
