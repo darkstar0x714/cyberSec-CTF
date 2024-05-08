@@ -33,9 +33,9 @@
 
 - [x] [**OSI Model**](https://tryhackme.com/r/room/osimodelzi) *Learn about the fundamental networking framework that determines the various stages in which data is handled across a network*
 
-- [ ] [**Packets & Frames**](https://tryhackme.com/r/room/packetsframes) *Understand how data is divided into smaller pieces and transmitted across a network to another device*
+- [x] [**Packets & Frames**](https://tryhackme.com/r/room/packetsframes) *Understand how data is divided into smaller pieces and transmitted across a network to another device*
 
-- [ ] [**Extending Your Network**](https://tryhackme.com/r/room/extendingyournetwork) *Learn about some of the technologies used to extend networks out onto the Internet and the motivations for this.*
+- [x] [**Extending Your Network**](https://tryhackme.com/r/room/extendingyournetwork) *Learn about some of the technologies used to extend networks out onto the Internet and the motivations for this.*
 
 ## How The Web Works
 
@@ -51,11 +51,11 @@
 
 ## Linux Fundamentals
 
-- [ ] [**Linux Fundamentals (Part 1)**](https://tryhackme.com/room/linuxfundamentalspart1) *Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal*.
+- [x] [**Linux Fundamentals (Part 1)**](https://tryhackme.com/room/linuxfundamentalspart1) *Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal*.
 
-- [ ] [**Linux Fundamentals (Part 2)**](https://tryhackme.com/room/linuxfundamentalspart2) *Continue your learning Linux journey with part two. You will be learning how to log in to a Linux machine using SSH, how to advance your commands, file system interaction*.
+- [x] [**Linux Fundamentals (Part 2)**](https://tryhackme.com/room/linuxfundamentalspart2) *Continue your learning Linux journey with part two. You will be learning how to log in to a Linux machine using SSH, how to advance your commands, file system interaction*.
 
-- [ ] [**Linux Fundamentals (Part 3)**](https://tryhackme.com/room/linuxfundamentalspart3) *Power up your Linux skills and get hands-on with some common utilities you will likely use daily!*.
+- [x] [**Linux Fundamentals (Part 3)**](https://tryhackme.com/room/linuxfundamentalspart3) *Power up your Linux skills and get hands-on with some common utilities you will likely use daily!*.
 
 ## Windows Fundamentals
 
