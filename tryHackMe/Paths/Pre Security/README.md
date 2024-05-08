@@ -41,9 +41,9 @@
 
 **To become a better hacker it's vital to understand the underlying functions of the world wide web and what makes it work.**
 
-- [ ] [**DNS in detail**](https://tryhackme.com/r/room/dnsindetail) *Learn how DNS works and how it helps you access internet services.*
+- [x] [**DNS in detail**](https://tryhackme.com/r/room/dnsindetail) *Learn how DNS works and how it helps you access internet services.*
 
-- [ ] [**HTTP in Detail**](https://tryhackme.com/r/room/httpindetail) *Learn about how you request content from a web server using the HTTP protocol*
+- [x] [**HTTP in Detail**](https://tryhackme.com/r/room/httpindetail) *Learn about how you request content from a web server using the HTTP protocol*
 
 - [ ] [**How Websites Work**](https://tryhackme.com/r/room/howwebsiteswork) *To exploit a website, you first need to know how they are created.*
 
