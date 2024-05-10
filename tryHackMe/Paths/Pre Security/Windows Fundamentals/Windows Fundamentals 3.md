@@ -4,7 +4,13 @@
 
 ## Room objectives
 
--
+- Windows Updates
+- windows defender
+- Firewall & network protection
+- Device security
+- BitLocker
+- Volume Shadow Copy Service
+- [Living Off The Land concept](https://lolbas-project.github.io/)
 
 ## Tasks
 
