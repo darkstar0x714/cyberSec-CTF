@@ -47,7 +47,7 @@
 
 - [x] [**How Websites Work**](https://tryhackme.com/r/room/howwebsiteswork) *To exploit a website, you first need to know how they are created.*
 
-- [ ] [**Putting it all together**](https://tryhackme.com/r/room/puttingitalltogether) *Learn how all the individual components of the web work together to bring you access to your favorite web sites.*
+- [x] [**Putting it all together**](https://tryhackme.com/r/room/puttingitalltogether) *Learn how all the individual components of the web work together to bring you access to your favorite web sites.*
 
 ## Linux Fundamentals
 
