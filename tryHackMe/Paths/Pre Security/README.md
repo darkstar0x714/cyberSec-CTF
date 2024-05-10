@@ -59,8 +59,8 @@
 
 ## Windows Fundamentals
 
-- [ ] [**Windows Fundamentals 1**](https://tryhackme.com/room/windowsfundamentals1xbx) *In part 1 of the Windows Fundamentals module, we'll start learning about the Windows desktop, the NTFS file system, UAC, the Control Panel, and more…*.
+- [x] [**Windows Fundamentals 1**](https://tryhackme.com/room/windowsfundamentals1xbx) *In part 1 of the Windows Fundamentals module, we'll start learning about the Windows desktop, the NTFS file system, UAC, the Control Panel, and more…*.
 
-- [ ] [**Windows Fundamentals 2**](https://tryhackme.com/room/windowsfundamentals2x0x) *In part 2 of the Windows Fundamentals module, discover more about System Configuration, UAC Settings, Resource Monitoring, the Windows Registry and more*.
+- [x] [**Windows Fundamentals 2**](https://tryhackme.com/room/windowsfundamentals2x0x) *In part 2 of the Windows Fundamentals module, discover more about System Configuration, UAC Settings, Resource Monitoring, the Windows Registry and more*.
 
-- [ ] [**Windows Fundamentals 3**](https://tryhackme.com/room/windowsfundamentals3xzx) *In part 3 of the Windows Fundamentals module, learn about the built-in Microsoft tools that help keep the device secure, such as Windows Updates, Windows Security, BitLocker, and more...*.
+- [x] [**Windows Fundamentals 3**](https://tryhackme.com/room/windowsfundamentals3xzx) *In part 3 of the Windows Fundamentals module, learn about the built-in Microsoft tools that help keep the device secure, such as Windows Updates, Windows Security, BitLocker, and more...*.
