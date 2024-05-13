@@ -1,0 +1,12 @@
+{
+  "[markdown]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.markdownlint": "explicit"
+    }
+  },
+  "markdownlint.config": {
+    "MD040": false,
+    "MD033": false
+  },
+  "editor.stickyScroll.enabled": false
+}
