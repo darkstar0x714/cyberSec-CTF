@@ -8,5 +8,6 @@
     "MD040": false,
     "MD033": false
   },
-  "editor.stickyScroll.enabled": false
+  "editor.stickyScroll.enabled": false,
+  "cSpell.words": ["OSINT"]
 }
