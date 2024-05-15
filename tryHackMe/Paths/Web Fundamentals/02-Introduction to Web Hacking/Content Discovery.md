@@ -6,8 +6,19 @@
 
 - methods of Content Discovery :
   - manual
-  - automated
+    - Robots.txt
+    - Sitemap.xml
+    - Favicon
+    - HTTP Headers
+    - Framework Stack
   - OSINT
+    - Google Hacking / Dorking
+    - Wappalyzer
+    - Wayback Machine
+    - GitHub
+    - S3 Buckets
+  - automated
+    - dirBuster
 
 ## Tasks
 
