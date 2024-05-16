@@ -4,6 +4,11 @@
 
 ## Room objectives
 
+- Username Enumeration
+- Brute Force
+- Logic Flaw
+- Cookie Tampering
+
 ## Tasks
 
 ### Task 1 : Brief
