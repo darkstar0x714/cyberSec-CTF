@@ -9,5 +9,8 @@
     "MD033": false
   },
   "editor.stickyScroll.enabled": false,
-  "cSpell.words": ["OSINT"]
+  "cSpell.words": [
+    "IDOR",
+    "OSINT"
+  ]
 }
