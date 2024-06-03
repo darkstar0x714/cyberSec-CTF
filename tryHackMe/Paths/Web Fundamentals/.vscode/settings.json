@@ -11,6 +11,7 @@
   "editor.stickyScroll.enabled": false,
   "cSpell.words": [
     "IDOR",
-    "OSINT"
+    "OSINT",
+    "SSRF"
   ]
 }
